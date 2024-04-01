@@ -1,3 +1,3 @@
 <?php
   // Index file, display a message
-  echo "Hello World";
+  echo "Hello, World!";
